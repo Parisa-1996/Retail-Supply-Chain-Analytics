@@ -1,5 +1,5 @@
 📦 Retail Supply Chain Analytics
-End-to-End Omnichannel Inventory & Availability Case Study
+End-to-End Omnichannel Inventory & Availability
 
 1️⃣ Project Overview
 
