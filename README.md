@@ -1,5 +1,6 @@
 📦 Retail Supply Chain Analytics
 End-to-End Omnichannel Inventory & Availability Case Study
+
 1️⃣ Project Overview
 
 The objective is to design an analytics foundation that supports operational decision-making across:
